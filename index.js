@@ -1,4 +1,3 @@
-
 const estados = [
     {
     uf: "SP", cidades: [
